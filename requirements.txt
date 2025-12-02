@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+joblib
+streamlit
+statsmodels
+python-box
+pyyaml
+ensure
+types-PyYAML
+-e .
