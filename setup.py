@@ -6,9 +6,9 @@ with open("README.md", "r", encoding="utf-8") as f:
 __version__ = "0.0.0"
 
 REPO_NAME = "ML_LAB_EXAM"
-AUTHOR_USER_NAME = "priaansh11"
+AUTHOR_USER_NAME = "PratyushSaxena7"
 SRC_REPO = "ML_LAB"
-AUTHOR_EMAIL = "priyanshukumarofficial@gmail.com"
+AUTHOR_EMAIL = "pratyushsaxena5821@gmail.com"
 
 setuptools.setup(
     name=SRC_REPO,
